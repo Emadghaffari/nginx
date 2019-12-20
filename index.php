@@ -1,0 +1,1 @@
+<?php echo "DateTime:".date()."." ?>
